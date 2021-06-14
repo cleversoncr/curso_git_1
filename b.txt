@@ -2,3 +2,6 @@ Testando atualização do clone
 a
 b
 c
+dof
+e
+r
